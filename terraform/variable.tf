@@ -6,7 +6,7 @@ variable "aws_region" {
 variable "github_owner" {
   description = "GitHub repository owner"
   type        = string
-  default     = "d3ringo"
+  default     = "d3rIngo"
 }
 
 variable "github_repo" {
